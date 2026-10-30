@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema de Celulares com Orientação a Objetos (POO)/1.0.0": {
+        "runtime": {
+          "Sistema de Celulares com Orientação a Objetos (POO).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Celulares com Orientação a Objetos (POO)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

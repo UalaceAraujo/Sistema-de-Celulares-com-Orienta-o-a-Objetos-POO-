@@ -1,0 +1,14 @@
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\bin\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).exe
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\bin\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).deps.json
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\bin\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).runtimeconfig.json
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\bin\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).dll
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\bin\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).pdb
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).AssemblyInfoInputs.cache
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).AssemblyInfo.cs
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).csproj.CoreCompileInputs.cache
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).dll
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\refint\Sistema de Celulares com Orientação a Objetos (POO).dll
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).pdb
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\Sistema de Celulares com Orientação a Objetos (POO).genruntimeconfig.cache
+C:\Users\ualac\OneDrive\Desktop\PROJETOS QUE EU FIZ\Sistema de Celulares com Orientação a Objetos (POO)\obj\Debug\net10.0\ref\Sistema de Celulares com Orientação a Objetos (POO).dll
